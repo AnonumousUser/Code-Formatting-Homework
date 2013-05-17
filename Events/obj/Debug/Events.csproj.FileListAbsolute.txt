@@ -1,0 +1,11 @@
+C:\Users\Kaloyan\Desktop\2. Code-Formatting-Homework\Events\bin\Debug\Events.exe.config
+C:\Users\Kaloyan\Desktop\2. Code-Formatting-Homework\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+C:\Users\Kaloyan\Desktop\2. Code-Formatting-Homework\Events\bin\Debug\Events.exe
+C:\Users\Kaloyan\Desktop\2. Code-Formatting-Homework\Events\bin\Debug\Events.pdb
+C:\Users\Kaloyan\Desktop\2. Code-Formatting-Homework\Events\bin\Debug\PowerCollections.xml
+C:\Users\Kaloyan\Desktop\2. Code-Formatting-Homework\Events\obj\Debug\Events.exe
+C:\Users\Kaloyan\Desktop\2. Code-Formatting-Homework\Events\obj\Debug\Events.pdb
+C:\Users\Kaloyan\Desktop\2. Code-Formatting-Homework\Events\bin\Debug\PowerCollections.dll
+D:\Telerik\C# QPC\2. Code-Formatting-Homework\C#\2. Code-Formatting-Homework\Events\bin\Debug\Events.exe.config
+D:\Telerik\C# QPC\2. Code-Formatting-Homework\C#\2. Code-Formatting-Homework\Events\obj\Debug\Events.exe
+D:\Telerik\C# QPC\2. Code-Formatting-Homework\C#\2. Code-Formatting-Homework\Events\obj\Debug\Events.pdb
